@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "primary": "#4AA870",
+    "secondary": "#333333",
+    "dark": "#444444",
+    "light": "#6A6A6A",
+    "content": "#DEDEDE"
+  },
+  "fonts": {
+    "detach": "'Staatliches', Cursive",
+    "content": "'Roboto Slab', serif"
+  },
+  "layout": {
+    "HeightHeader": "12vh",
+    "HeightBody": "88vh"
+  }
+}
