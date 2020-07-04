@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8c2814ea66e36735ccb07689aa529a8",
+    "revision": "5b2c40e31ef2d39e824dc8b3870b0b99",
     "url": "/Exploud-Web/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Exploud-Web/static/js/2.bb9b71a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "378cc17421e22a1eda9f",
-    "url": "/Exploud-Web/static/js/main.1d7b0ba5.chunk.js"
+    "revision": "e66bc8819eb53b0af57d",
+    "url": "/Exploud-Web/static/js/main.776e8567.chunk.js"
   },
   {
     "revision": "93b9e590ea4ebb64beab",
